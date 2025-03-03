@@ -40,7 +40,6 @@ For me, it’s not just about numbers; it’s about impact. It’s about helping
 ## 🌟 Let’s Create Something Incredible Together!  
 I’m always open to exciting opportunities to transform ideas into action. Let’s connect:  
 - **LinkedIn**: [Tobi Osinubi](https://www.linkedin.com/in/tobiosinubi/)  
-- **Email**: TobiO.Osinubi@gmail.com
 ---
 
 Thank you for visiting my GitHub! Dive into my repositories to see how I’m reimagining data analytics. ✨  
